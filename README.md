@@ -1,7 +1,11 @@
 <div id="header" align="center">
+  <!--
   <img src="https://i.pinimg.com/564x/82/4b/87/824b877bf4c731e3fcc13a8881c3e982.jpg" />
+  -->
+  <img src="https://png2.cleanpng.com/sh/5e70db15fb6d0f65938ba8529bf44492/L0KzQYm3VMAzN6JnfZH0aYP2gLBuTgdmal5pfehubHBzfbb1lL1ud5NuhNc2YYDzPbXslvVtd6FyfdD9LYPydsXAggJmNZVqRdZudnXvf8Hskr02aZQ3fdVqNXO1doW5Vr41Pmo2SKc6N0G4QoOAUsQxOGY8UaoALoDxd1==/kisspng-web-development-mobile-app-development-software-de-developer-5ac2eca5c2f426.4691051715227240057985.png" />
+  
 </div>
-<h1 align="center">Hi 👋, I'm Sai Prasad Dubey</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sai+Prasad+Dubey" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate app developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanoticoder&label=Profile%20views&color=0e75b6&style=flat" alt="tanoticoder" /> </p>
