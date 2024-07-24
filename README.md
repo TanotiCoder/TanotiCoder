@@ -23,9 +23,7 @@
 - 💬 Ask me about **Student**
 
 - 📫 How to reach me **tanoticoder@gmail.com**
-
-- 📄 Know about my experiences [https://tanoticoder.github.io/SaiDubey/resume/Resume%20and%20project%20documentation.pdf](https://tanoticoder.github.io/SaiDubey/resume/Resume%20and%20project%20documentation.pdf)
-
+  
 - ⚡ Fun fact **Need Help**
 
 <h3 align="left">Connect with me:</h3>
